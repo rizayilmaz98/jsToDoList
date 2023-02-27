@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(165, 163, 163);
+}
+.color-green{
+    color: green;
+}
+.color-red{
+    color: red;
+}
+.color-blue{
+    color: blue;
+}
+.bg-blue{
+    background-color: blue;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.line-through{
+    text-decoration: line-through;
+}
+.update-button{
+    background-color: turquoise;
+    color: black;
+    font-weight: 600;
+    padding: 5px;
+}
+.update-button:hover{
+    background-color: blue;
+}
